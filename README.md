@@ -3,6 +3,7 @@
 A proof-of-concept clipboard hijacker targeting cryptocurrency addresses on Windows systems. The program monitors the clipboard and replaces copied addresses (BTC, ETH, LTC, TRX, SOL) with attacker-controlled ones using lightweight XOR obfuscation.
 
 Support me:
+
 TRX: TLEDJRA3MktyjVc6AXVdeu9sYTsgVdNEm7
 
 ETH: 0xc3794254C574c5E0D196809EC1Ba963d73380680
